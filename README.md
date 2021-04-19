@@ -1,5 +1,5 @@
 ## Udacity Project 1: 
-** Write a Data Science Blog Post   
+**Write a Data Science Blog Post**   
 ### Table of Contents
 
 1.  [Installation](https://github.com/rachit1010/Udacity_Projects/blob/main/README.md#installation)
