@@ -36,7 +36,7 @@ The main findings of the code can be found at the  [post](https://drive.google.c
 
 ## [](https://github.com/rachit1010/Udacity_Projects/blob/main/README.md#licensing-authors-acknowledgements)Licensing, Authors, Acknowledgements
 
-Must give credit to Udacity courses for some of code ideas, and to kaggle/Stack OverFlow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available  [here](https://www.google.com/search?q=images&sxsrf=ALeKk01EzMI4URoOk4y_oV52up1lp_3OHg:1618564865803&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiI1Pz-t4LwAhWzoekKHcwzDrcQ_AUoAXoECAEQAw&biw=1280&bih=553#imgrc=wp1tdfttzeGYZM). Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity courses for some of code ideas, and to kaggle/Stack OverFlow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available  [here](https://insights.stackoverflow.com/survey). Otherwise, feel free to use the code here as you would like!
 
 
     
