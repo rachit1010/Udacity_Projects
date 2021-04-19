@@ -82,7 +82,7 @@ The findings here are observational, and still need to know the real question
 
 > Do you want to continue as a Python Programmer ?
 
-To see more about this analysis, see the link to my Github available [here](https://github.com/rachit1010/rachit/blob/main/Worksheet%207_final.ipynb).
+To see more about this analysis, see the link to my Github available [here](https://github.com/rachit1010/Udacity_Projects/blob/main/Udacity_Project_1.ipynb).
 
 ### References: 
 [survey_results_public](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view)
