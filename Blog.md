@@ -1,4 +1,4 @@
-
+# Link For Blog Post ![click here](https://rachitagrawal-26429.medium.com/as-a-python-programmer-how-safe-are-you-in-terms-of-job-and-where-you-got-the-highest-scope-b90c63cea81a) 
 ### Overview
 This blog post is part of Udacity Project:1 (Write a Data Scientist Blog Post) under Data Scientists Nanodegree Program. Detailed analysis is done based on the project requirement, same is posted in my github repository executed on Jupyter notebook.
 
