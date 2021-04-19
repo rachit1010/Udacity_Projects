@@ -1,5 +1,5 @@
 ## Udacity Project 1: 
-Write a Data Science Blog Post   
+**Write a Data Science Blog Post   
 ### Table of Contents
 
 1.  [Installation](https://github.com/rachit1010/Udacity_Projects/blob/main/README.md#installation)
@@ -10,7 +10,7 @@ Write a Data Science Blog Post
 
 ## [](https://github.com/rachit1010/Udacity_Projects/blob/main/README.md#installation-)Installation
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+To run the piece of code, i did install Anaconda IDE with Pyhton 3. After installing Anaconda, we dont need to install any other library or IDE. Click [here](https://docs.anaconda.com/anaconda/install/windows/) to install Anaconda Documentation.
 
 ## [](https://github.com/rachit1010/Udacity_Projects/blob/main/README.md#project-motivation)Project Motivation
 
